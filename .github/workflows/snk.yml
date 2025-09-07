@@ -31,6 +31,11 @@ jobs:
           outputs: |
             assets/github-contribution-grid-snake.svg
             assets/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v7.2.1
+        with: 
+          branch: main
+          message: 'Generate Contribution Snake'
           
           
       # push the content of <build_dir> to a branch
