@@ -74,9 +74,9 @@ C                        1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
-**时间线**
+<!-- **时间线**
 
-![Lines of Code chart](https://raw.githubusercontent.com/RhenCloud/RhenCloud/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/RhenCloud/RhenCloud/main/assets/bar_graph.png) --->
 
 
  Last Updated on 2025-09-07 05:42:43 UTC
