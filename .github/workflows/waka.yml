@@ -1,0 +1,25 @@
+
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          IGNORED_REPOS: "RhenCloud.github.io, ILP-Docs, The-Bible-of-No.9-Middle-School-s-Deads, "
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_OS: "True"
+          SHOW_EDITORS: "True"
+          SYMBOL_VERSION: 2
+          LOCALE: zh
+          UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
