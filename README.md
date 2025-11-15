@@ -10,7 +10,9 @@
 </p>
 
 <p align="center">
-<img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34631">
+<!-- <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34631"> -->
+<img href="https://wakapi.rhen.cloud" alt="Wakapi" src="https://img.shields.io/endpoint?url=https://wakapi.rhen.cloud/api/compat/shields/v1/RhenCloud/interval:All&label=All%20time&color=blue">
+<img href="https://wakapi.rhen.cloud" alt="Wakapi" src="https://wakapi.rhen.cloud/api/badge/RhenCloud/RhenCloud/interval:30_days?label=last%2030d">
 </p>
 
 <!--START_SECTION:waka-->
