@@ -7,9 +7,6 @@ on:
   # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 
-permissions:
-  contents: write
-
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
