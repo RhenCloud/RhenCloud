@@ -21,3 +21,10 @@ jobs:
           output_action: commit
           committer_branch: main
           committer_message: "chore: update metrics"
+
+          plugin_wakatime: true
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_url: https://wakapi.rhen.cloud
+          plugin_wakatime_sections: time, projects, projects-graphs, languages-graphs
+          plugin_wakatime_days: 30
+          
