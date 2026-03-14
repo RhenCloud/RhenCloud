@@ -21,7 +21,7 @@
 <!--END_SECTION:waka-->
 
 <div align="center">
-<img src=https://grs.rhen.cloud/api?username=RhenCloud&theme=transparent&show_icons=true>
+<img src=https://grs.rhen.cloud/api?username=RhenCloud&theme=transparent&show_icons=true&show=prs_merged>
 <img src=https://github-readme-stats.hackclub.dev/api/wakatime?username=30322&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8>
 </div>
 
