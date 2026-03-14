@@ -11,15 +11,19 @@
 <a title="bilibili" target="_blank" href="https://space.bilibili.com/1502883335"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D1502883335&query=data.follower&suffix=%20followers&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAD7ElEQVR4nO2dW9WrMBCFK6ESkFAJSKiESqgEHCABCZWAhEpAAhL2ecik5dDc%2FpXLBDLfWnlqy0xmJ5BMQnq5CIIgCIIgCIIgCIIgCEIBAHQAemYfrgCunD6wAKAHsEKxALgx%2BbCQD8%2FS9tmgVqeDr1lLigDgZvDhXso%2BK9TyTBQRwRJ8AHjntl0Flh5QRAQK%2FmKxPeayWx2OXpBNBKiHvi34b7T2MC4pAvW6twR%2FRwkRKPizBN8CgEcuESj4Lwm%2BBwBjahEk%2BH8EwJRKhOaCDzW8e1JLfkUUH1NgmR3XmHffHR1l%2B72BSs8d7w8U%2BJDAnZERQMcV%2BCtUi7dNqFqibB4J7vtrq7xKCuAasbTMXCL4T%2B5aVk6%2B2xHUrWdhruAR6HIJcOeu2UHI8zyAe2ytWfEdWz9PVvQ8YAmIQ5dDAB9LFsMVAv8oMO2zAGrC5WNIarRiAuKR9jYEd9pY08aa6uUzIHGRdkgKd8pY0yc1WjEBAqypDYoAG0QAZkQAZkQAZkQAZk4vANQenjsSzS3I%2FwcSbXU5jQBUkRtdf4Rar90v8kSv3%2BI3ffCCSpk8I%2Fw%2BlgDkdI%2Fv2rEp2CaiWm1AsDQLlDAD%2BdlFXLMeAaCSeLZdaSFE5VUQNot38cKuEeBgAsSuG0flVZBmEanbXfNQAsS0fgBYIn2fIu3%2FBBMHEyBmDXlFfA8IzeHb%2BEms4WAChKykrVA9ZfsQTL57jXzRg4A5wC%2FA8N4ADiZAZwm2XjW75Qh2KOTfA0p4kygPw28OJcCVgn3nDnYo2EwEYRgGH0qAMyICMCMCMCMCMCMCMCMCMCMCfP3qwHDOQ4AAUekTk8FaBRihJnZdYbvtCGC7LvmkM63GjVDINPFrQgCq5ETXfmMzI90FXzPvfqt7x4rEu%2FZaEcCUxFvgz2zO%2BBUn6UkoaEEAsptiMSX5e8FoRYCN7cVgb4Vq7U%2FH50Pq4JNP7Qiw8UFnJwcK%2BtXy%2BWj6PLEvPgHSHv5UgwA1IQIwwyFAyLJin9RoxYgAzAQIkPwNmf26busC%2BOIx5TDqo5nDT%2BF%2FSS%2F9CYzwb%2BNo49zNy2evkYv0LywGGAXUvp6eSneycqOic0w20k7CNgKE7jJunSGLACTCxF27ylmQc98T5MQUH49swd%2BI0HPXslLKnT0N%2BwnkrTKi9JZL%2FL9i1SorMmdeQ4TQQ7OFMxIMzGD45w8nUL1im7efENZLJpgPSw0pfz0cdt4U3230Td%2FTvx2R6d2FrHhEWLkq5PELOMsRPHCPnAZGv1xJteL7jbJiaW3sB2nDvPC%2FosSYvjRQz4cJ6n7KO3rYQL7M%2BL6nVtfDVRAEQRAEQRAEQRAEIZ5%2FSAXmdfXaoQsAAAAASUVORK5CYII%3D&label=Bilibili&labelColor=f27596&color=353940" ></a>
 </p>
 
-<p align="center">
+<!-- <p align="center"> -->
 <!-- <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34631"> -->
-<img href="https://wakapi.rhen.cloud" alt="Wakapi" src="https://img.shields.io/endpoint?url=https://wakapi.rhen.cloud/api/compat/shields/v1/RhenCloud/interval:all_time&label=All%20time&color=blue">
-<img href="https://wakapi.rhen.cloud" alt="Wakapi" src="https://wakapi.rhen.cloud/api/badge/RhenCloud/RhenCloud/interval:30_days?label=last%2030d">
-</p>
+<!-- <img href="https://wakapi.rhen.cloud" alt="Wakapi" src="https://img.shields.io/endpoint?url=https://hackatime.hackclub.com/api/compat/shields/v1/RhenCloud/all_time&label=All%20time&color=blue"> -->
+<!-- <img href="https://wakapi.rhen.cloud" alt="Wakapi" src="https://hackatime.hackclub.com/api/badge/RhenCloud/RhenCloud/interval:30_days?label=last%2030d"> -->
+<!-- </p> -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<div align="center">
+<img src=https://grs.rhen.cloud/api?username=RhenCloud&theme=transparent&show_icons=true>
+<img src=https://github-readme-stats.hackclub.dev/api/wakatime?username=30322&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8>
+</div>
 
 <!--![Anurag's GitHub stats](https://grs.bkctwy.tech/api?username=RhenCloud&theme=dracula&show_icons=true) [![Top Langs](https://grs.bkctwy.tech/api/top-langs/?username=RhenCloud&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)--->
 
@@ -27,8 +31,8 @@
     <img src="https://raw.githubusercontent.com/RhenCloud/RhenCloud/main/assets/github-contribution-grid-snake-dark.svg" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
     <img src="[https://activity-graph.herokuapp.com/graph?username=RhenCloud&theme=dracula](https://github-readme-activity-graph.vercel.app/graph?username=RhenCloud&theme=dracula)" />
-</div>
+</div> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RhenCloud&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RhenCloud&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
