@@ -48,6 +48,19 @@ My online alias comes from element 75 — **Rhenium**.
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+## Projects
+
+Showing key projects I have contributed to.
+
+[![Cloud-Blog](https://github-stats-extended.vercel.app/api/pin/?username=RhenCloud&repo=Cloud-Blog&description_lines_count=2&browser_rendering=true&show_owner=true&theme=transparent)](https://github.com/RhenCloud/Cloud-Blog)
+[![Cloud-Home](https://github-stats-extended.vercel.app/api/pin/?username=RhenCloud&repo=Cloud-Home&description_lines_count=2&browser_rendering=true&show_owner=true&theme=transparent)](https://github.com/RhenCloud/Cloud-Home)
+[![NixOS-Config](https://github-stats-extended.vercel.app/api/pin/?username=RhenCloud&repo=NixOS-Config&description_lines_count=2&browser_rendering=true&show_owner=true&theme=transparent)](https://github.com/RhenCloud/NixOS-Config)
+[![WebHooker](https://github-stats-extended.vercel.app/api/pin/?username=ReCloudStudio&repo=WebHooker&description_lines_count=2&browser_rendering=true&show_owner=true&theme=transparent)](https://github.com/ReCloudStudio/WebHooker)
+[![Shit-Bot](https://github-stats-extended.vercel.app/api/pin/?username=ReCloudStudio&repo=Shit-Bot&description_lines_count=2&browser_rendering=true&show_owner=true&theme=transparent)](https://github.com/ReCloudStudio/Shit-Bot)
+[![Mailer](https://github-stats-extended.vercel.app/api/pin/?username=ReCloudStudio&repo=Mailer&description_lines_count=2&browser_rendering=true&show_owner=true&theme=transparent)](https://github.com/ReCloudStudio/Mailer)
+[![NextBridge](https://github-stats-extended.vercel.app/api/pin/?username=SiiWay&repo=NextBridge&description_lines_count=2&browser_rendering=true&show_owner=true&theme=transparent)](https://github.com/SiiWay/NextBridge)
+[![VoidSwitch](https://github-stats-extended.vercel.app/api/pin/?username=SiiWay&repo=VoidSwitch&description_lines_count=2&browser_rendering=true&show_owner=true&theme=transparent)](https://github.com/SiiWay/VoidSwitch)
+
 ### Some Data...
 
 <div align="center">
