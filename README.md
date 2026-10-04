@@ -82,8 +82,9 @@ Showing key projects I have contributed to.
 ### Some Data...
 
 <div align="center">
-<img src=https://grs.rhen.cloud/api?username=RhenCloud&theme=transparent&show_icons=true&show=prs_merged>
-<img src=https://github-readme-stats.hackclub.dev/api/wakatime?username=30322&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8>
+<!-- <img src=https://grs.rhen.cloud/api?username=RhenCloud&theme=transparent&show_icons=true&show=prs_merged>
+<img src=https://github-readme-stats.hackclub.dev/api/wakatime?username=30322&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8> -->
+ <img src=https://githubcard.com/RhenCloud.svg?d=0N3Mu_N8K6tL>
 </div>
 
 <!--![Anurag's GitHub stats](https://grs.bkctwy.tech/api?username=RhenCloud&theme=dracula&show_icons=true) [![Top Langs](https://grs.bkctwy.tech/api/top-langs/?username=RhenCloud&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)--->
