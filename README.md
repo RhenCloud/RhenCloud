@@ -88,9 +88,9 @@ Showing key projects I have contributed to.
 
 <!--![Anurag's GitHub stats](https://grs.bkctwy.tech/api?username=RhenCloud&theme=dracula&show_icons=true) [![Top Langs](https://grs.bkctwy.tech/api/top-langs/?username=RhenCloud&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)--->
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://raw.githubusercontent.com/RhenCloud/RhenCloud/main/assets/github-contribution-grid-snake-dark.svg" />
-</div>
+</div> -->
 
 <!-- <div align="center">
     <img src="[https://activity-graph.herokuapp.com/graph?username=RhenCloud&theme=dracula](https://github-readme-activity-graph.vercel.app/graph?username=RhenCloud&theme=dracula)" />
